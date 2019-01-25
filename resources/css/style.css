@@ -1,20 +1,31 @@
-h1 {
-  color: white;
-    font-size: 50px;
-}
-
 body {
   background-color: black;
   text-align: center;
   font-family: Verdana;
 }
 
-p {
+/* Headings */
+
+.headermain {
+    font-size: 50px;
+    font-weight: normal;
+    color: white;
+}
+
+.headersec {
+  font-weight: 300;
+  font-size: 42px;
+  color: white
+  }
+
+.headerthird {
+  font-size: 21px;
+  color: gray;
+}
+/*Links*/
+
+.link {
   color: aquamarine;
   text-align: center;
   font-size: 16px;
-}
-
-video {
-
 }
