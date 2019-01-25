@@ -1,8 +1,7 @@
 body {
   background-color: black;
   text-align: center;
-  font-family: Verdana;
-}
+    }
 
 /* Headings */
 
@@ -10,22 +9,39 @@ body {
     font-size: 50px;
     font-weight: normal;
     color: white;
+    font-family: Verdana;
 }
 
 .headersec {
   font-weight: 300;
   font-size: 42px;
-  color: white
+  color: white  
   }
 
 .headerthird {
   font-size: 21px;
   color: gray;
 }
+
+.headerfort {
+  font-weight: 300;
+  font-size: 42px;
+  color: white
+  }
+
 /*Links*/
 
 .link {
   color: aquamarine;
   text-align: center;
   font-size: 16px;
+}
+
+/*footer*/
+
+footer {
+  text-align: right;
+  color: gray;
+  font-family: Verdana;
+  font-size: 21px;
 }
